@@ -1,7 +1,7 @@
 ---
 name: junct-defi
-description: Access 19 live DeFi protocol MCP servers via Junct. Real-time data for Aave, Chainlink, Pyth, GMX, CoinGecko, DeFiLlama, Curve, Binance, EigenLayer, Lido, Synthetix, Maker, ENS, Euler, Stargate, Blockscout, Beefy, Jupiter and Compound. Free. No auth. No API key. Deterministic generation.
-tags: defi, crypto, mcp, price, tvl, yield, oracle, dex, lending, staking, bridge, analytics, agent-ready, web3, ethereum, solana, binance
+description: Access 19 live crypto protocol MCP servers via Junct — exchanges, oracles, analytics, lending, staking, DEXes, bridges and naming. Binance, Chainlink, Pyth, CoinGecko, Aave, GMX, Lido, ENS and more. Free. No auth. Deterministic generation.
+tags: defi, crypto, mcp, price, tvl, yield, oracle, dex, lending, staking, bridge, analytics, agent-ready, web3, ethereum, solana, binance, crypto data, web3 data, blockchain analytics, exchange data, cross-chain, liquid staking, on-chain data, token prices, crypto market data
 ---
 
 # Junct DeFi — 19 Live Protocol MCP Servers
